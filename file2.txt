@@ -1,2 +1,6 @@
 file2 for use
+<<<<<<< HEAD
  changesss added
+=======
+ changessssS
+>>>>>>> develop2
